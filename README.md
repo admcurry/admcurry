@@ -5,6 +5,6 @@
 #### Below see some of the projects I've been working on
 
 #### Languages:
--R (Learning)
--Python (Learning
+-R (Learning)  
+-Python (Learning)  
 -SQL (Next to learn)
