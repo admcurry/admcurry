@@ -1,6 +1,6 @@
-# Hi there,
+# Hi!
 
-### _I'm a first year mathematics student and I'm learning to code in my spare time._
+### _I'm a first year mathematics student and learning to code in my spare time._
 
 ### _[Click here to view my website!](https://atcurry.github.io)_
 
