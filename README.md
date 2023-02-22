@@ -8,6 +8,7 @@
 - **R** (Intermediate)  
 - **Python** (Learning)
 - **SQL** (Next to learn)
+- **Julia** (Beginner
 
 ### _Courses:_
 - **Data Analyst with R** -Datacamp
