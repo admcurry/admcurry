@@ -14,7 +14,7 @@
 
 <div align="center"> <h3> Hi there, I'm Adam :wave: </h3>  </div>
 
-<div align="center"> <h2> :memo: Mathematics Undergraduate :books: &  :bar_chart: Aspiring Data Analyst :chart_with_upwards_trend: </h2>  </div> <br/>
+<div align="center"> <h2> :memo: Mathematics Undergraduate :books: <i>&</i>  :bar_chart: Aspiring Data Analyst :chart_with_upwards_trend: </h2>  </div> <br/>
 
 
 <div align="left"> <h2> What I'm Working On  :open_file_folder: </h2>  </div>
