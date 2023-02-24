@@ -41,3 +41,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atcurry&layout=compact" />
 </a>
+
+
+
+<div align="left"> <h2> Links :link: </h2>  </div>
+
+- https://atcurry.github.io/
+- https://app.datacamp.com/profile/adamcurry
+- https://deepnote.com/@abc-958e
+- https://codepen.io/atcurry
