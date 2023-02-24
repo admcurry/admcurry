@@ -1,12 +1,3 @@
-
-![Blue Dotted Friendly Corporate Corporate X-Frame Banner (1)](https://user-images.githubusercontent.com/124198480/221080887-302f208c-e4c0-42ab-8a58-a316b0ab43c9.png)
-
-
-<div align="center"> <h3> Hi there, I'm Adam :wave: </h3>  </div>
-
-<div align="center"> <h2> :memo: Mathematics Undergraduate :books: &  :bar_chart: Aspiring Data Analyst :chart_with_upwards_trend: </h2>  </div>
-
-
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -17,6 +8,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
+![Blue Dotted Friendly Corporate Corporate X-Frame Banner (1)](https://user-images.githubusercontent.com/124198480/221080887-302f208c-e4c0-42ab-8a58-a316b0ab43c9.png)
+
+
+<div align="center"> <h3> Hi there, I'm Adam :wave: </h3>  </div>
+
+<div align="center"> <h2> :memo: Mathematics Undergraduate :books: &  :bar_chart: Aspiring Data Analyst :chart_with_upwards_trend: </h2>  </div> <br/>
 
 
 <div align="left"> <h2> What I'm Working On  :open_file_folder: </h2>  </div>
