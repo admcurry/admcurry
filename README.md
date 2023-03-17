@@ -19,14 +19,15 @@
 
 <div align="left"> <h2> What I'm Working On  :open_file_folder: </h2>  </div>
 
-**I'm currently working through Datacamp's _Data Analyst with R_ course:)**
+I am currently learning data analysis using the R language. I have completed courses on R programming, the tidyverse, data manipulation using dplyr, data visualization using ggplot2, statistics, and R Markdown. In the future I’m going to learn more about the shiny package to make interactive visualisations, and using R for financial analysis.
 
 <div align="left"> <h2> My Languages  :ballot_box_with_check: </h2>  </div>
 
 - **R** (Intermediate)  
-- **Python** (Learning)
-- **SQL** (Next to learn)
+- **Python** (Beginner)
 - **Julia** (Beginner)
+- **HTML & CSS** (Intermediate)
+- **JavaScript** (Learning Next)
 
 <div align="left"> <h2> My Stats :bar_chart: </h2>  </div>
 
