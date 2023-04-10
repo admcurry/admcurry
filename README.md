@@ -33,10 +33,10 @@ I am currently learning data analysis using the R language. I have completed cou
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atcurry&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=admcurry&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" 
        width="400" 
      height="200"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atcurry&layout=compact&hide=html,tex,jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admcurry&layout=compact&hide=html,tex,jupyter%20notebook" />
 </a>
